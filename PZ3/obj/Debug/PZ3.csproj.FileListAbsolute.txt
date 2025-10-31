@@ -1,0 +1,7 @@
+G:\PZ3\obj\Debug\PZ3.csproj.AssemblyReference.cache
+G:\PZ3\obj\Debug\MainWindow.g.cs
+G:\PZ3\obj\Debug\App.g.cs
+G:\PZ3\obj\Debug\PZ3_MarkupCompile.cache
+G:\PZ3\obj\Debug\PZ3_MarkupCompile.lref
+G:\PZ3\obj\Debug\Pages\Autho.g.cs
+G:\PZ3\obj\Debug\Pages\Client.g.cs
